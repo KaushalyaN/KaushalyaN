@@ -7,7 +7,7 @@
 
 
 # Hi there! 👋 Kaushalya here..
-## Looking for DevOps/Cloud technology related roles. DevOps Enthusiast || LearningInPublic || Learning Docker and K8s
+### Looking for DevOps/Cloud technology related roles. DevOps Enthusiast || LearningInPublic || Learning Docker and K8s
 
 Skills: 
 - **Hard Skills**: Linux / GitHub / Ansible / Terraform / Jenkins / AWS
