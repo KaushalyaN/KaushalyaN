@@ -6,7 +6,7 @@
 - 📫 How to reach me kaushalyaranasinghe1997@gmail.com
 
 
-# Hi there! 👋 Kaushalya here.
+# Hi there! 👋 Kaushalya here..
 ## Looking for DevOps/Cloud technology related roles. DevOps Enthusiast || LearningInPublic || Learning Docker and K8s
 
 Skills: 
