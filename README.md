@@ -11,4 +11,4 @@
 
 Skills: 
 - **Hard Skills**: Linux / GitHub / Ansible / Terraform / Jenkins / AWS
-- **Soft Skills**: TeamPlayer / Communication / Motivated / Adaptability
+- **Soft Skills**: TeamPlayer / Communication / Adaptability
